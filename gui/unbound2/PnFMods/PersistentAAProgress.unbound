@@ -1,4 +1,5 @@
 
+
 (def element AimedFireStateTooltip (_stateEntity:gfx) layout=true
 	(scope
 		(var state:gfx = "_stateEntity.state")
